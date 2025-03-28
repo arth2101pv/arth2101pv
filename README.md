@@ -1,24 +1,21 @@
-# # # 🌠 Sobre mim
-Olá! Me chamo Arthur, tenho 17 anos e sou estudante de desenvolvimento Full Stack javascript. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
+# 🌠 Sobre mim
+Olá! Me chamo Arthur, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. Concluí o curso de **Desenvolvedor Full-Stack JavaScript pelo Senac** e estou sempre buscando aprimorar minhas habilidades em programação. Aqui, compartilho meus projetos, materiais de estudo e experimentos.
 
-# # 🌟 Habilidades
-HTML
-CSS
-Javascript
-React
-Node.js
+## 🌟 Habilidades
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Node.js, Express
+- **Banco de Dados:** MySQL, MongoDB
+- **Outras Tecnologias:** Git, GitHub, API REST
 
 ## 🌙 Outros
-👩‍💻 Estudo atualmente no SENAC Largo Treze
-🧠 Estou aprendendo HTML | CSS | Javascript
-👯‍♀️ Procuro colaborar com meus resultados e exercícios
-🤔 Procuro ajuda com, de todos que puderem
-💬 Me pergunte sobre programação e desenvolvimento de sistemas
-📫 Como entrar em contato comigo - arthurcabral2101@gmail.com
-😄 Pronomes: Ele|Dele
-
+- 🎓 **Atualmente estudando:** Desenvolvimento Full-Stack e Cloud Computing
+- 💡 **Interesses:** Web Development, APIs, UX/UI Design
+- 🤝 **Colaborações:** Sempre aberto para projetos e desafios
+- 📬 **Contato:** arthurcabral2101@gmail.com
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cabral-424b75308/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/arth2101pv))
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato! 🚀
